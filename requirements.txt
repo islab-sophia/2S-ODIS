@@ -1,0 +1,10 @@
+torch==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu118
+opencv-python
+omegaconf
+mlflow
+clean-fid
+lpips
+torchmetrics
+einops
+torch-fidelity

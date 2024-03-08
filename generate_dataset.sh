@@ -1,0 +1,2 @@
+python generate_dataset_first.py
+python generate_dataset_second.py
