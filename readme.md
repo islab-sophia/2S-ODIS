@@ -62,4 +62,7 @@ Evaluation results will be computed in `eval/results`.
 - NVIDIA RTX 3090
 - CUDA 11.8
 
+## License
+Apache License 2.0
+
 ## BibTeX
